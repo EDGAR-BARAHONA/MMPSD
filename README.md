@@ -9,7 +9,7 @@ Como articulo de referencia puede consultar el siguiente articulo 'Análisis de 
 
 Para el uso de estos datos es obligatorio hacer referencia al articulo mencionado y hacer referencia en los agradecimientos a [Procalculo Prosis S.A.](https://www.procalculo.com/inicio), ya que la imagen satelital Planet Scope usada para el inventario de deslizamientos fue suministrada por ellos.
 
-Autor EdgarLibardo Barahona Cantor,
+Autor Edgar Libardo Barahona Cantor,
 Ingeniero Catastral y Geodesta Universidad Distrital Francisco Jose de Caldas,
 Candidato a Magister en geomatica, Universidad Nacional de Colombia
 
