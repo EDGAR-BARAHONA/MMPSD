@@ -13,6 +13,6 @@ Autor Edgar Libardo Barahona Cantor,
 Ingeniero Catastral y Geodesta de la Universidad Distrital Francisco Jose de Caldas,
 Candidato a Magister en geomatica de la Universidad Nacional de Colombia
 
-Cualquier novedad, pregunta o requerimiento sobre los datos o el articlo puede ser remitida a: ebarahona@unal.edu.co
+Cualquier novedad, pregunta o requerimiento sobre los datos o el articilo puede ser remitida a: ebarahona@unal.edu.co
 
 
